@@ -2,7 +2,7 @@ title: Coragem
 description: Think of an idea to make our web better – and put it into ACTION!
 
 url: http://brianmaierjr.github.com/long-haul
-baseurl: "/long-haul/blog/"
+baseurl: "/long-haul/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
