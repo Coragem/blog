@@ -3,8 +3,8 @@ description: Think of an idea to make our web better – and put it into ACTION!
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: "/blog"
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "/page:num/"
+permalink: /:title/
 
 markdown: redcarpet
 highlighter: pygments
