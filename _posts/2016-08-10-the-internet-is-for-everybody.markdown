@@ -3,8 +3,7 @@ layout: post
 published: true
 date: 2016-08-10
 ---
-image: ricardo-motta.png
-![Foto do Ricardo Motta – Oficina Maker Party Sesc Santos]({{site.baseurl}}/img/makerpartyweeksp/ricardo-motta.png)
+![Foto do Ricardo Motta – Oficina Maker Party Sesc Santos](https://github.com/Coragem/blog/blob/gh-pages/_posts/img/makerpartyweeksp/ricardo-motta.png)
 <figure>
 	<img src="https://github.com/Coragem/blog/blob/gh-pages/_posts/img/makerpartyweeksp/ricardo-motta.png" alt="Foto do Ricardo Motta – Oficina Maker Party Sesc Santos"> 
 	<figcaption>Fig1. - This is an example figcaption</figcaption>
