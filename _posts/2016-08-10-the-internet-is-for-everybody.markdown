@@ -2,7 +2,7 @@
 layout: post
 published: true
 date: 2016-08-10
-image: img/makerparty/ricardo-motta.png
+image: /img/makerpartyweeksp/ricardo-motta.png
 ---
 ## The Internet is for everybody!
 
