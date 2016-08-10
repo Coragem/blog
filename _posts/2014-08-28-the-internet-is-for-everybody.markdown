@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: The Internet is for Everybody
-date: {}
+date: 2014-08-28
 ---
 
 At the 5th day of Maker Party Week SP, we had Ricardo Motta’s notable presence during the 5/6/7/8(?) workshop at Sesc Santos. Ricardo is famous at Sesc because he is autist and illiterate, and even with difficulties, it is not a hindrance for him to participate in most of the activities that happened there.
