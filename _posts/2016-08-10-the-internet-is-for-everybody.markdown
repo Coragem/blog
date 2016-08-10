@@ -2,7 +2,6 @@
 layout: post
 published: true
 date: 2016-08-10
-image: ricardo-motta.png
 ---
 ## The Internet is for everybody!
 
