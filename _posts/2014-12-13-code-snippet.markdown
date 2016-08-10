@@ -1,7 +1,4 @@
 ---
-layout: post
-title: Post With A Code Snippet
-date: {}
 published: false
 ---
 
