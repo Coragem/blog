@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## The Internet is for everybody!
+<div class="post"> ## The Internet is for everybody!
 
 ![Foto do Ricardo Motta – Oficina Maker Party Sesc Santos]({{site.baseurl}}/_posts/img/makerpartyweeksp/ricardo-motta.png)
 
@@ -26,3 +26,4 @@ Ricardo Motta’s makes, 55 years old:
 P.S: I want to thank my friend and professor [José Amilcar](mailto:kankrezinho@gmail.com) aka Zé for donating a little of their time to teach English to me, thanks bro!
 
 Coragem
+</div>
