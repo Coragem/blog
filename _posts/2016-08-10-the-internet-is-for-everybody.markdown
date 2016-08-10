@@ -2,6 +2,7 @@
 layout: post
 published: true
 date: 2016-08-10
+image: ricardo-motta.png
 ---
 ![Foto do Ricardo Motta – Oficina Maker Party Sesc Santos]({{site.baseurl}}/img/makerpartyweeksp/ricardo-motta.png)
 <figure>
