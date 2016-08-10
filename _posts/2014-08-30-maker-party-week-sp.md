@@ -7,8 +7,9 @@ We did a whole week of workshops in different places in Baixada Santista and Cam
 Hey Coragem, explain it better. – So, what happened was that Microcamp (a computer school) decided to release ALL of their classes (~240 students) on that sunny Thursday to attend the Maker Party, what at least doubled the number of activities that day. Our team talked among ourselves (Mel, Panaggio and I) and decided to accept this challenge. Each of us was responsible for one or two classes at time, but it only worked in the morning, after lunch the number of students tripled and we had to join in and seperate sometimes.
 
 ## Workshops
-Logo do Firefox numa ecobag
-Logo do Firefox sendo desenhado numa ecobag :D
+
+![Logo do Firefox sendo desenhado numa ecobag :D](https://raw.githubusercontent.com/Coragem/blog/gh-pages/_posts/img/makerpartyweeksp/firefox-ecobag.jpg)
+
 Mel gave the idea to customize ecological bags before presenting Webmaker tools.
  
 > But what customizing bags  has to do with creating  for the web?
