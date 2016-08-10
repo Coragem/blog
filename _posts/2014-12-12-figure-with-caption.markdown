@@ -1,7 +1,4 @@
 ---
-layout: post
-title: Figure With A Caption
-date: {}
 published: false
 ---
 
