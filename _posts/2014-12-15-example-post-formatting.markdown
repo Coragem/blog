@@ -1,7 +1,4 @@
 ---
-layout: post
-title: Example Post Formatting
-date: {}
 published: false
 ---
 
