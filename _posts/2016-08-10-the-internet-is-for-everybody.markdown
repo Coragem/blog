@@ -5,7 +5,7 @@ date: 2016-08-10
 ---
 ![Foto do Ricardo Motta – Oficina Maker Party Sesc Santos]({{site.baseurl}}/img/makerpartyweeksp/ricardo-motta.png)
 <figure>
-	<img src="{{ '/img/makerpartyweeksp/ricardo-motta.png' | prepend: site.baseurl }}" alt="Foto do Ricardo Motta – Oficina Maker Party Sesc Santos"> 
+	<img src="{{ '/blog/_posts/img/makerpartyweeksp/ricardo-motta.png' | prepend: site.baseurl }}" alt="Foto do Ricardo Motta – Oficina Maker Party Sesc Santos"> 
 	<figcaption>Fig1. - This is an example figcaption</figcaption>
 </figure>
 At the 5th day of Maker Party Week SP, we had Ricardo Motta’s notable presence during the 5/6/7/8(?) workshop at Sesc Santos. Ricardo is famous at Sesc because he is autist and illiterate, and even with difficulties, it is not a hindrance for him to participate in most of the activities that happened there.
