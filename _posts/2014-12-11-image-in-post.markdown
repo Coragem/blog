@@ -1,7 +1,5 @@
 ---
-layout: post
-title: Image in Post
-date: {}
+
 published: false
 ---
 
