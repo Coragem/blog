@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+date: 2016-08-10
 ---
 ## The Internet is for everybody!
 
