@@ -27,7 +27,7 @@ We used the Thimble to learn about HTML elements and teach the basic tags: _html
 
 With the X-Ray Goggles we saw the structure of some web pages so that each of the attendees could remix on their own way.
 
-My favorite meme page is this [here](https://coragem.makes.org/thimble/LTQzNTQyMDkyOA==/meme-maker-coragem)
+My favorite meme page is this [here](https://coragem.makes.org/thimble/LTQzNTQyMDkyOA==/meme-maker-coragem) 
 All pages made during the week can be found by searching the tag MakerPartyWeekSP on webmaker.org.
 Photos of all days are on [Flickr Webmaker Brasil community](https://www.flickr.com/photos/webmakerbrasil) :D
 
