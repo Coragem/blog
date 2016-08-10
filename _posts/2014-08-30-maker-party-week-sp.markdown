@@ -1,5 +1,7 @@
 ---
+title: Maker Party Week São Paulo
 published: true
+date: 2014-08-30
 ---
 In the wake of the [Mozilla’s global campaign](https://learning.mozilla.org/en-US/events) to teach the web, from July 29th to August 4th, [Mel](https://twitter.com/mel__), [Panaggio](https://twitter.com/panaggio) and I organized the Maker Party Week SP in the cities of Santos, Guarujá and Campinas.
 We did a whole week of workshops in different places in Baixada Santista and Campinas. At first, we had in mind 12 workshops during 7 days, but in the end we got to the incredible number of 25 workshops. How so? Yeah, I also wonder how we achieved this number and how nobody freaked out.
