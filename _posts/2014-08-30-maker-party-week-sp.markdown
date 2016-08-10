@@ -7,7 +7,7 @@ date: {}
 In the wake of the [Mozilla’s global campaign](https://learning.mozilla.org/en-US/events) to teach the web, from July 29th to August 4th, [Mel](https://twitter.com/mel__), [Panaggio](https://twitter.com/panaggio) and I organized the Maker Party Week SP in the cities of Santos, Guarujá and Campinas.
 We did a whole week of workshops in different places in Baixada Santista and Campinas. At first, we had in mind 12 workshops during 7 days, but in the end we got to the incredible number of 25 workshops. How so? Yeah, I also wonder how we achieved this number and how nobody freaked out.
 
-![Foto chamada para a Maker Party Week SP](/https://raw.githubusercontent.com/Coragem/blog/gh-pages/_posts/img/makerpartyweeksp/maker-partysp.jpg)
+![Foto chamada para a Maker Party Week SP](https://raw.githubusercontent.com/Coragem/blog/gh-pages/_posts/img/makerpartyweeksp/maker-partysp.jpg)
 
 Hey Coragem, explain it better. – So, what happened was that Microcamp (a computer school) decided to release ALL of their classes (~240 students) on that sunny Thursday to attend the Maker Party, what at least doubled the number of activities that day. Our team talked among ourselves (Mel, Panaggio and I) and decided to accept this challenge. Each of us was responsible for one or two classes at time, but it only worked in the morning, after lunch the number of students tripled and we had to join in and seperate sometimes.
 
