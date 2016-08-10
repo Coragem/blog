@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Maker Party Week São Paulo
 published: true
 date: 2014-08-30
