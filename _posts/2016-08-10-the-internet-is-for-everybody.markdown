@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 ---
 ## The Internet is for everybody!
