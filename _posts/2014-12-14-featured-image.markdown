@@ -1,7 +1,4 @@
 ---
-layout: post
-title: Featured Image
-date: {}
 image: touring.jpg
 published: false
 ---
