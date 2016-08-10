@@ -1,11 +1,11 @@
 ---
 published: true
 ---
-<div class="post"> ## The Internet is for everybody!
+## The Internet is for everybody!
 
 ![Foto do Ricardo Motta – Oficina Maker Party Sesc Santos]({{site.baseurl}}/_posts/img/makerpartyweeksp/ricardo-motta.png)
 
-At the 5th day of Maker Party Week SP, we had Ricardo Motta’s notable presence during the 5/6/7/8(?) workshop at Sesc Santos. Ricardo is famous at Sesc because he is autist and illiterate, and even with difficulties, it is not a hindrance for him to participate in most of the activities that happened there.
+<p class="intro"><span class="dropcap">Hi </span>At the 5th day of Maker Party Week SP, we had Ricardo Motta’s notable presence during the 5/6/7/8(?) workshop at Sesc Santos. Ricardo is famous at Sesc because he is autist and illiterate, and even with difficulties, it is not a hindrance for him to participate in most of the activities that happened there.
 
 Common scenario of people who takes part in our workshops are those already literate in Portuguese, so we just ~need~ to literate them about the web.
 
@@ -26,4 +26,3 @@ Ricardo Motta’s makes, 55 years old:
 P.S: I want to thank my friend and professor [José Amilcar](mailto:kankrezinho@gmail.com) aka Zé for donating a little of their time to teach English to me, thanks bro!
 
 Coragem
-</div>
