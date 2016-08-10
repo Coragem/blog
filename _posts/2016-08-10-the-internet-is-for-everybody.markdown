@@ -6,7 +6,10 @@ date: 2016-08-10
 ## The Internet is for everybody!
 
 ![Foto do Ricardo Motta – Oficina Maker Party Sesc Santos]({{site.baseurl}}/_posts/img/makerpartyweeksp/ricardo-motta.png)
-
+<figure>
+	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Fig1. - This is an example figcaption</figcaption>
+</figure>
 At the 5th day of Maker Party Week SP, we had Ricardo Motta’s notable presence during the 5/6/7/8(?) workshop at Sesc Santos. Ricardo is famous at Sesc because he is autist and illiterate, and even with difficulties, it is not a hindrance for him to participate in most of the activities that happened there.
 
 Common scenario of people who takes part in our workshops are those already literate in Portuguese, so we just ~need~ to literate them about the web.
