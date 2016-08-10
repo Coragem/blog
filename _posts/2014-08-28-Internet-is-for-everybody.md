@@ -13,7 +13,7 @@ Ricardo appeared at LabLivre and stayed there, observing the crowd having fun an
 
 Ricardo already knows how to read, and this was one of the most important skills he used in order to learn a little bit about the web. I can’t say that I taught him how to write and make webpages with HTML and CSS in about 4 hours. It is impossible! Hahaha.
 
-To teach him the basic tags as: <code><html>, <body>, <head>, <p>, <h1>, <a>…</code> and the CSS properties: color, font-size, background-color… I needed to be his pilot instructor and Ricardo the learning pilot. I showed him what is possible to do with a little of HTML and CSS and he told me how he would like his webpage to look like.
+To teach him the basic tags as: html, body, head, p, h1, a… and the CSS properties: color, font-size, background-color… I needed to be his pilot instructor and Ricardo the learning pilot. I showed him what is possible to do with a little of HTML and CSS and he told me how he would like his webpage to look like.
 
 I think that the ideal would be to let him write the whole code and I would only guide him through the good practices. I swear I tried it, but we didn’t have enough time and he couldn’t write it all, so I had to take control of the keyboard at the end of the workshop. I really wanted to talk about privacy and security, but it would be too much information at once and we hadn’t enough time. I hope I can come back to Sesc Santos to resume the work we started with all the guys from the other days and with the happy Ricardo; this buddy can enjoy a lot of things from Internet and improve his communication capacity.
 
