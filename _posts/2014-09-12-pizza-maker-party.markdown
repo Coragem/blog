@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Pizza Maker Party
 published: true
+date: 2014-09-12
 ---
 On May 18th, the webmakers caiçara community in Baixada Santista celebrated the success of the Webmaker pilot in Guarujá.
 
@@ -35,7 +37,7 @@ A special thanks to [Amira](https://twitter.com/amirad) that helped us from the 
 
 The gallery is in my personal account on [Flickr](https://www.flickr.com/photos/_coragem/sets/72157644989641315/) :)
 
-Filming credits: [João das Neves](https://twitter.com/joaovg)
+Filming credits: [Jão das Neves](https://twitter.com/joaovg)
 
 English subtitles made by: [José Amilcar](mailto:kankrezinho@gmail.com) aka Zé.
 
