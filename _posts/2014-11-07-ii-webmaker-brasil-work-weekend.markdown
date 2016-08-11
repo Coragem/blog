@@ -1,5 +1,8 @@
 ---
+layout: post
+title: II Webmaker Brasil Work Weekend
 published: true
+date: 2014-11-07
 ---
 In early October the 2nd edition of Webmaker Brasil Work Weekend happened at Mel & Panaggio’s home, and once again I was very welcomed by them, since they have adopted me as part of their awesome family. We also had new people coming to our community: Ikaros and Paulo. Welcome aboard! O/
 
