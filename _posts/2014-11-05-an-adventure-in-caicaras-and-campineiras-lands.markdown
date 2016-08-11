@@ -33,7 +33,7 @@ And not, I’m not a crazy guy, I don’t recommend bluff in these situations, I
 
 ## Mission Accomplished
 
-Infográfico Maker Party
+![Infográfico Maker Party 2014](https://raw.githubusercontent.com/Coragem/blog/gh-pages/_posts/img/makerpartyweeksp/makerparty_postparty_infographic_static_vertical_v2.png)
 
 Our global community of webmakers made ​​a historic campaign for the project this year.
 
