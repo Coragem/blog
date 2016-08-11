@@ -7,7 +7,7 @@ In early October the 2nd edition of Webmaker Brasil Work Weekend happened at Mel
 
 We also had remote participation of Rodrigo Waters and Cynthia Pereira, thanks guys! (+1 [appear.in](https://appear.in/webmaker-br))
 
-In the first edition of this home event, we planned and discussed ideas for the [Maker Week Party SP](https://coragem.github.io/blog/maker-party-week-sp/) and how we can help our community of webmakers in Brazil grow strong.
+In the [first edition](https://brazil.etherpad.mozilla.org/i-webmaker-brasil-work-weekend) of this home event, we planned and discussed ideas for the [Maker Week Party SP](https://coragem.github.io/blog/maker-party-week-sp/) and how we can help our community of webmakers in Brazil grow strong.
 
 In this second meeting we took the opportunity to talk about post-event Maker Party and what we can do in the upcoming workshops. What to improve? And where? What kinds of activities are cool and productive?
 
