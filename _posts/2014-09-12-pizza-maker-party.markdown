@@ -16,7 +16,27 @@ We recorded some testimonials from those who attended the workshops. The idea of
 
 The videos are in Portuguese, but you can activate English subtitles.
 
-Babih
+Babih  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6sKvRuphKIE" frameborder="0" allowfullscreen></iframe>
 
-Ester
+Ester  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O6D_fxZmdx8?list=PLPYuDwrqh5_RlubtITfDoYWZUnrDd6EV6" frameborder="0" allowfullscreen></iframe>
+
+Eduardo  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ewbPUoUPGNw?list=PLPYuDwrqh5_RlubtITfDoYWZUnrDd6EV6" frameborder="0" allowfullscreen></iframe>
+
+Juliana  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WLsb55Dtirs?list=PLPYuDwrqh5_RlubtITfDoYWZUnrDd6EV6" frameborder="0" allowfullscreen></iframe>
+
+Natanael  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMSPtO_1Jfo?list=PLPYuDwrqh5_RlubtITfDoYWZUnrDd6EV6" frameborder="0" allowfullscreen></iframe>
+
+A special thanks to [Amira](https://twitter.com/amirad) that helped us from the beginning to understand Webmaker project; and she also recorded a very nice and encouraging message for everybody. Watch it [here](https://amira.makes.org/popcorn/2190)!
+
+The gallery is in my personal account on [Flickr](https://www.flickr.com/photos/_coragem/sets/72157644989641315/) :)
+
+Filming credits: [João das Neves](https://twitter.com/joaovg)
+
+English subtitles made by: [José Amilcar](mailto:kankrezinho@gmail.com) aka Zé.
+
+Coragem
