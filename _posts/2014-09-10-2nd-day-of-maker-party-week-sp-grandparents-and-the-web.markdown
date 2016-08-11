@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2nd day of Maker Party Week SP: Grandparents and the web
+title: 2nd day of Maker Party Week SP Grandparents and the web
 published: true
 date: 2014-09-10
 ---
