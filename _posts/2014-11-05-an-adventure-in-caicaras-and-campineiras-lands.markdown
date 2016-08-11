@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Organize a full week of workshops was frantic and certainly a totally different experience from other events that I’ve organized and attended.
 
