@@ -3,6 +3,8 @@ published: false
 ---
 Organize a full week of workshops was frantic and certainly a totally different experience from other events that I’ve organized and attended.
 
+![Flyer Maker Party Week SP](https://raw.githubusercontent.com/Coragem/blog/gh-pages/_posts/img/makerpartyweeksp/chamada-makerpartyweeksp.jpg)
+
 Come here and take a look at this amazing week numbers:
 
 - Maker Party Week São Paulo had the participation of approximately **400 people**.
@@ -17,7 +19,11 @@ Come here and take a look at this amazing week numbers:
 - More than **400 creations** were produced (between Thimble and bags).
 - Several people attended more than one workshop.
 
+![Material Maker Party Week SP](https://raw.githubusercontent.com/Coragem/blog/gh-pages/_posts/img/makerpartyweeksp/material-makerpartyweeksp.jpg)
+
 A volunteer life is not easy, always facing a tight budget, saving and trying to invest our time and money consciously. It was hard work took all the materials to the workshops on buses and ferries all week. Besides weight, we unintentionally fumbled passenger flow. But it’s okay, it was for a good cause :P
+
+![Coragem's make](https://raw.githubusercontent.com/Coragem/blog/gh-pages/_posts/img/makerpartyweeksp/coragem-ecobag-make.jpg)
 
 ## Challenges
 
