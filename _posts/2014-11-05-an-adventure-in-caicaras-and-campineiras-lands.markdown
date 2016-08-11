@@ -1,5 +1,8 @@
 ---
+layout: post
+Title: An adventure in caiçaras and campineiras lands
 published: true
+date: 2014-11-05
 ---
 Organize a full week of workshops was frantic and certainly a totally different experience from other events that I’ve organized and attended.
 
