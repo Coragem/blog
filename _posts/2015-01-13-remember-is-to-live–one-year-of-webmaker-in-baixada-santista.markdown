@@ -1,5 +1,8 @@
 ---
+layout: post
+title: Remember is to live 1 year of Webmaker in Baixada Santista
 published: true
+date: 2015-01-13
 ---
 In November 2013, after I got in touch with Webmaker during MozSummit in Toronto, I decided to explore the project and make a pilot phase in my city.
 
