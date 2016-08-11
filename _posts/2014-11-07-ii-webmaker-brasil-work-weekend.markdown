@@ -15,7 +15,7 @@ Raniere and Panaggio played a few games of [Code Castles](https://coragem.github
 
 All the improvements applied to the game are documented on the [pad](https://brazil.etherpad.mozilla.org/code-castles-remix).
 
-We also discussed several ideas for **Movimento Mozilla** in 2015; news of this action coming soon ;-)
+We also discussed several ideas for [**Movimento Mozilla**](https://old.etherpad-mozilla.org/movimento-mozilla) in 2015; news of this action coming soon ;-)
 
 And finally, the Mel’s blog has born!!! :D Look here: [http://melc.at](http://melc.at)
 
