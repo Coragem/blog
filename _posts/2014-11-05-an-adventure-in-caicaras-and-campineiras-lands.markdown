@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: An adventure in caiçaras and campineiras lands
+Title: An adventure in caicaras and campineiras lands
 published: true
 date: 2014-11-05
 ---
