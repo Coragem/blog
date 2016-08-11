@@ -2,7 +2,7 @@
 layout: post
 title: Pizza Maker Party
 published: true
-date: {}
+date: 2014-09-12
 ---
 On May 18th, the webmakers caiçara community in Baixada Santista celebrated the success of the Webmaker pilot in Guarujá.
 
