@@ -46,3 +46,18 @@ All pages made ​​during the week can be found by searching the tag MakerPart
 All pictures can be found on [Flickr Webmaker Brasil community](https://www.flickr.com/photos/webmakerbrasil) :D
 
 If you came here looking for Webmaker and want to know what happened during Maker Party Week SP, take a look on my other posts about it:
+
+- [Maker Party Week São Paulo](https://coragem.github.io/blog/maker-party-week-sp/)
+- [The Internet is for everybody!](https://coragem.github.io/blog/the-internet-is-for-everybody/)
+- [2nd day of Maker Party Week SP: Grandparents and the web](https://coragem.github.io/blog/2nd-day-of-maker-party-week-sp-grandparents-and-the-web/)
+- [Maker Party Week SP: CRJ Campinas](https://coragem.github.io/blog/maker-party-week-sp-crj-campinas/)
+
+And on Mozilla Brasil community blog:
+
+- [First day](https://blog.mozillabrasil.org.br/2014/08/i-maker-party-week-primeiro-dia/)
+- [Second day](http://blog.mozillabrasil.org.br/2014/09/i-maker-party-week-segundo-dia/)
+- [Third day](https://blog.mozillabrasil.org.br/2014/09/i-maker-party-week-sao-paulo-terceiro-dia/)
+- [Fourth and fithy day](https://blog.mozillabrasil.org.br/2014/09/i-maker-party-week-sao-paulo-quarto-e-quinto-dias/)
+- [Final day](https://blog.mozillabrasil.org.br/2014/09/maker-party-week-sao-paulo-ultimo-dia/)
+
+Coragem
