@@ -1,5 +1,8 @@
 ---
+layout: post
+title: 2nd day of Maker Party Week SP: Grandparents and the web
 published: true
+date: 2014-09-10
 ---
 On the second day of Maker Party Week SP, we did a different activity. Our workshop took place at Estação da Cidadania de Santos, and the public at large majority were elders (or as they call themselves, ~vovonautas~) that often attend the Estação.
 
