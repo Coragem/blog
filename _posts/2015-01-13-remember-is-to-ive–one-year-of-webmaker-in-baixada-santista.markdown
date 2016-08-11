@@ -1,7 +1,9 @@
 ---
-published: false
+published: true
 ---
 In November 2013, after I got in touch with Webmaker during MozSummit in Toronto, I decided to explore the project and make a pilot phase in my city.
+
+![Foto Primeira turma webmaker do Guarujá](https://raw.githubusercontent.com/Coragem/blog/gh-pages/_posts/img/primeira-turma-webmaker-guaruja.png)
 
 The [pilot](https://events.webmaker.org/events/3054) phase began on November 6th, 2013 and ended on December 13th, 2013. There were 84 hours of activities. From Monday to Thursday, from 08 to 11 in the morning. Two groups of 22 webmakers (with a total of 44 webmakers). We produced [~100 makes](https://webmaker.org/pt-br/search?type=all&q=Brasil), learned a lot and had a great time during our workshop mornings.
 
