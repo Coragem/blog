@@ -1,6 +1,6 @@
 ---
 title: Pizza Maker Party
-published: false
+published: true
 ---
 On May 18th, the webmakers caiçara community in Baixada Santista celebrated the success of the Webmaker pilot in Guarujá.
 
@@ -18,3 +18,5 @@ The videos are in Portuguese, but you can activate English subtitles.
 
 Babih
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6sKvRuphKIE" frameborder="0" allowfullscreen></iframe>
+
+Ester
