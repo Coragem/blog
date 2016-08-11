@@ -1,5 +1,8 @@
 ---
+layout: post
+title: Maker Party Week SP CRJ Campinas
 published: true
+date: 2014-10-17
 ---
 The last day of this incredible week of workshops happened at CRJ Campinas. We had known this place months ago when we attended a workshop with [Geraldo](https://twitter.com/geraldobarros_)’s guys from [Juventude Conectada](http://www.campinas.sp.gov.br/governo/cidadania-assistencia-e-inclusao-social/juventude-conectada.php) (former Jovem.com).
 
